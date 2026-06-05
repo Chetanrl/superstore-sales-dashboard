@@ -18,7 +18,8 @@ The dashboard provides a macro-to-micro view of the business, allowing stakehold
 * **Data Source:** Sample Superstore Dataset
 
 ## Dashboard Preview
-![Superstore Sales Dashboard](superstore_excep_project_2026.jpg/Superstore_Excep_Project_2026.jpg)
+<img width="1082" height="517" alt="Superstore_Excep_Project_2026" src="https://github.com/user-attachments/assets/355ef799-487f-4fcf-921f-e30f52b209dc" />
+
 
 ## How to Use the Dashboard
 1. Open the source file (`.pbix` or `.xlsx`) included in this repository.
